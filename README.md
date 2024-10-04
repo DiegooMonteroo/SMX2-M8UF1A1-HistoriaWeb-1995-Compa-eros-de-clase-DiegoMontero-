@@ -2,5 +2,17 @@
 
 Compañeros de clase
 
-Un primer ejemplo de una red social, su fundador Randy Conrads 
+Una de las primeras redes sociales de internet ,su fundador Randy Conrads
+
 ![Randy.webp](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-1995-Compa-eros-de-clase-DiegoMontero-/blob/main/Randy.webp)
+
+	# 1. Objetivo
+
+Lanzo un sitio web, que se basaba en encontrar a antiguos compañeros de clase de la escuela secundaría mediante un pago.
+Es decir, que las personas se pueden reencontraran y mantuvieran contacto con antiguos compañeros de clase (cole, instituto y universidad.
+
+	# 2. Funcionamiento
+Tal plataforma tenía un directorio que proponía las listas de clase de las escuelas, ayudando a los compañeros a encontrar a gente antigua
+
+	# 3. Actualidad
+Al ser una de las plataformas pioneras sobre las redes sociales, dejo las bases para plataformas actuales, de las que ya conocemos hoy en día como LinkedIn, Facebook etc.. 
