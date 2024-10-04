@@ -17,6 +17,8 @@ Tal plataforma tenía un directorio que proponía las listas de clase de las esc
 	# 3. Actualidad
 Al ser una de las plataformas pioneras sobre las redes sociales, dejo las bases para plataformas actuales, de las que ya conocemos hoy en día como LinkedIn, Facebook etc.. 
 
+	# 4. Características principales
+
 | Características principales | Respuestas |
 |-----------------------------|------------|
 | Directorio de Escuelas| Los usuarios podían buscar su escuela y ver una lista de antiguos alumnos registrados.|
