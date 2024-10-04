@@ -1,6 +1,6 @@
 # SMX2-M8UF1A1-HistoriaWeb-1995-Compa-eros-de-clase-DiegoMontero-
 
-Compañeros de clase
+Classmates.com
 
 Una de las primeras redes sociales de internet (Classmates.com) ,su fundador Randy Conrads
 
