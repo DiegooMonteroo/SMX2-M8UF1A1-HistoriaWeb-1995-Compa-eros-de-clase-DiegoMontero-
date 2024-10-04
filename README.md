@@ -29,4 +29,4 @@ Tal plataforma tenía un directorio que proponía las listas de clase de las esc
 	# 4. Actualidad
 Al ser una de las plataformas pioneras sobre las redes sociales, dejo las bases para plataformas actuales, de las que ya conocemos hoy en día como LinkedIn, Facebook etc.. 
 
-|[1.jpg](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-1995-Compa-eros-de-clase-DiegoMontero-/blob/main/1.jpg)
+![1.jpg](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-1995-Compa-eros-de-clase-DiegoMontero-/blob/main/1.jpg)
